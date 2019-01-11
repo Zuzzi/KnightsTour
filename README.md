@@ -3,6 +3,7 @@ How can a knight jump on an NxN chessboard in such a way that it visits  every s
 input: dimension N of the board and starting Tile
 
 output: List of squares which completes the knight's tour
+
 The main predicate builds a list of NxN coordinates, delete the
 starting position from the list and call the depth first search
 algorithm to find a possible solution, then it prints the solution
