@@ -11,4 +11,5 @@ list on the screen
 
 e.g.
 ?- knightstour(5,1/5,Tour).
+
 THE TOUR IS ----> 1/5 3/4 5/5 4/3 3/5 5/4
