@@ -1,4 +1,3 @@
- KnightsTour
 How can a knight jump on an NxN chessboard in such a way that it visits  every square exactly once?
 input: dimension N of the board and starting Tile
  output: List of squares which completes the knight's tour
